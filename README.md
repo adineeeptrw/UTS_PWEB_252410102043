@@ -7,8 +7,8 @@ Alur: login dengan username, lalu username dikirim lewat request parameter ke Da
 ## Screenshot
 
 ![Login](public/screenshots/login.png)
-![Dashboard](public/screenshots/dashboard.png)
-![Profil](public/screenshots/profile.png)
+![Dashboard](public/screenshots/dashboard_mauw.png)
+![Profil](public/screenshots/profil.png)
 ![Penjualan](public/screenshots/penjualan.png)
 
 ## Cara menjalankan
