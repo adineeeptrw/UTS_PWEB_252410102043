@@ -6,10 +6,10 @@ Alur: login dengan username, lalu username dikirim lewat request parameter ke Da
 
 ## Screenshot
 
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Profil](screenshots/profile.png)
-![Pengelolaan](screenshots/pengelolaan.png)
+![Login](public/screenshots/login.png)
+![Dashboard](public/screenshots/dashboard.png)
+![Profil](public/screenshots/profile.png)
+![Penjualan](public/screenshots/penjualan.png)
 
 ## Cara menjalankan
 
